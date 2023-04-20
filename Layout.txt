@@ -1,0 +1,16 @@
+Components
+    Elements
+        Header
+        Footer
+    Pages
+        Home
+        About
+        Shop/Products
+        Contact
+
+        Cart
+        Checkout
+
+    Templates
+        Product
+        SingleProduct

@@ -1,0 +1,103 @@
+[
+	{
+		"FilterCoffee": [
+			{
+				"productName": "200g Filter Coffee (Needs Brewing)",
+				"ProductPrice": 210,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Filter-Coffee_540x.jpg"
+			},
+			{
+				"productName": "Filter Coffee Decoction",
+				"ProductPrice": 200,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Coffee-Decoction-Pack-of-2_720x.jpg"
+			},
+			{
+				"productName": "Brass Dawara Set & Filter Coffee Decoction",
+				"ProductPrice": 640,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/2bottles_dawara.001_540x.png"
+			},
+			{
+				"productName": "Brass Dawara Set & Filter Coffee",
+				"ProductPrice": 400,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Group2_540x.jpg"
+			}
+		],
+		"InstantCoffee": [
+			{
+				"productName": "100g Instant Coffee",
+				"ProductPrice": 240,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/SIC_540x.jpg"
+			},
+			{
+				"productName": "Brass Dawara Set & Instant Coffee",
+				"ProductPrice": 640,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Group3_540x.jpg"
+			},
+			{
+				"productName": "Brass Dawara Set & Filter Coffee Decoction",
+				"ProductPrice": 640,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Coffee-Decoction-Pack-of-2_720x.jpg"
+			},
+			{
+				"productName": "Filter Coffee Brass Dawara Set",
+				"ProductPrice": 400,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Coffee-Decoction-Pack-of-2_720x.jpg"
+			}
+		],
+		"Snacks": [
+			{
+				"productName": "Pepper Murukku (150g)",
+				"ProductPrice": 90,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Pepper-Murukku_540x.jpg"
+			},
+			{
+				"productName": "Bittergourd Chips (150g)",
+				"ProductPrice": 125,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Pavakkai-Chips_540x.jpg"
+			},
+			{
+				"productName": "Ribbon Murukku (125g)",
+				"ProductPrice": 80,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Garlic-Ribbon-Pakoda_540x.jpg"
+			},
+			{
+				"productName": "Peanut Chikki (150g)",
+				"ProductPrice": 90,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Peanut-Chikki_540x.jpg"
+			},
+			{
+				"productName": "Onion Vadam (150g)",
+				"ProductPrice": 140,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Onion-Vadam_720x.jpg"
+			},
+			{
+				"productName": "Snacks Combo",
+				"ProductPrice": 375,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/SnacksBundle_8b745544-0b66-432c-9ea4-336f69d2d58e_540x.png"
+			}
+		],
+
+		"Spices": [
+			{
+				"productName": "Curry Leaves Podi (150g)",
+				"ProductPrice": 190,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Curry-Podi_540x.jpg"
+			},
+			{
+				"productName": "Rajam's Peanut Podi (150g)",
+				"ProductPrice": 175,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/PP_540x.jpg"
+			},
+			{
+				"productName": "Idli Molaga Podi (150g)",
+				"ProductPrice": 175,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Idli-Podi_540x.jpg"
+			},
+			{
+				"productName": "Filter Coffee Brass Dawara Set",
+				"ProductPrice": 400,
+				"ProductImage": "https://cdn.shopify.com/s/files/1/0351/7759/5012/products/Coffee-Decoction-Pack-of-2_720x.jpg"
+			}
+		]
+	}
+]
