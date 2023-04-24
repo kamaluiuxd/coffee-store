@@ -1,13 +1,8 @@
-//
-import ProductData from "../../Assets/DataFiles/ProductData.json";
-
-const Products = () => {
-	console.log(ProductData);
+const UnderConstruction = () => {
 	return (
 		<section className="flex justify-center items-center h-screen">
 			<h1 className="text-3xl font-extrabold text-center"> Page Under Construction</h1>
 		</section>
 	);
 };
-
-export default Products;
+export default UnderConstruction;
