@@ -1,2 +1,2 @@
 ## Preview Demo of this code
-[Preview](https://um-coffeestore.netlify.app/)
+[Preview](https://lite-coffee.netlify.app)
